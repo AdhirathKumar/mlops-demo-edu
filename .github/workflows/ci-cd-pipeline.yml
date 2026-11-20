@@ -8,7 +8,7 @@ on:
 env:
   CDSW_DOMAIN: "https://ml-0087d16c-9a9.maria-56.kfjr-x0dh.cloudera.site"
   PROJ_NAME: "cicd-mlops_5_5356125"
-  RUN_TIME: "docker.repository.cloudera.com/cloudera/cdsw/ml-runtime-workbench-python3.9-standard:2024.02.1-b46125"
+  RUN_TIME: "docker.repository.cloudera.com/cloudera/cdsw/ml-runtime-workbench-python3.9-standard:2024.02.1-b4"
 
 jobs:
   deploy-to-cml:
